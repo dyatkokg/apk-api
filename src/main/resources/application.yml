@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/Apk_App
+  security:
+    user:
+      name: vova
+      password: 123
